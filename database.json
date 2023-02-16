@@ -1,0 +1,17 @@
+{
+    "98536.49502833073": {
+        "name": "Fan",
+        "state": false,
+        "manual": true
+    },
+    "87834.5745817552": {
+        "name": "Heater",
+        "state": false,
+        "manual": false
+    },
+    "60675.567216983014": {
+        "name": "Speaker",
+        "state": false,
+        "manual": false
+    }
+}
